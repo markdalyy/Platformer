@@ -46,7 +46,7 @@
 
 ![Screenshot of gameplay](gameplay.png "Gameplay")
 
-This is a simple game where your character must move and avoid the enemies for as long as possible.
+This is a simple platform game where your character must pass by or stomp enemies to reach a portal that takes you to the next level.
 
 It is the finished version of the game featured in the GDQuest YouTube tutorial 
 [Make Your First 2D Game with Godot](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KH_z21S_XeXD3Ht3WnSqW97 "Godot 2D Platformer").
@@ -91,10 +91,11 @@ Go to the [Releases](https://github.com/MarkDaly64/Platformer/releases "Releases
 <!-- HOW TO PLAY -->
 ## How to Play
 
-* With the project open in Godot, press F5 on your keyboard / click the play button to open the game.
-* Click the Start button to begin playing.
-* Use the WASD keys to move the player and dodge the creeps.
-* Your score increases by 1 point every second you survive.
+* With the project open in Godot, press F5 on your keyboard / click on the play icon to open the game.
+* Press the Play button to begin.
+* Use either the arrows or WASD keys to move the player.
+* Your score increases by 100 points for each coin you collect & for each enemy you stomp.
+* Reach the portal at the end to advance to the next level.
 
 Click [here](https://github.com/MarkDaly64/Platformer "Demo") to view the demo.
 
