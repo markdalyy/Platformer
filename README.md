@@ -97,7 +97,7 @@ Go to the [Releases](https://github.com/MarkDaly64/Platformer/releases "Releases
 * Your score increases by 100 points for each coin you collect & for each enemy you stomp.
 * Reach the portal at the end to advance to the next level.
 
-Click [here](https://github.com/MarkDaly64/Platformer "Demo") to view the demo.
+<!--Click [here](https://github.com/MarkDaly64/Platformer "Demo") to view the demo.-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
