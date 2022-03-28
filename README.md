@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/MarkDaly64/Platformer">
+  <a href="https://github.com/markdalyy/Platformer">
     <img src="icon.png" alt="Logo" height="80" width="80"/>
   </a>
   <h3>Platformer</h3>
@@ -8,14 +8,14 @@
   <p>
     2D scrolling platform game in Godot
     <br />
-    <a href="https://github.com/MarkDaly64/Platformer"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/markdalyy/Platformer"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MarkDaly64/Platformer">View Demo</a>
+    <a href="https://github.com/markdalyy/Platformer">View Demo</a>
     ·
-    <a href="https://github.com/MarkDaly64/Platformer/issues">Report Bug</a>
+    <a href="https://github.com/markdalyy/Platformer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MarkDaly64/Platformer/issues">Request Feature</a>
+    <a href="https://github.com/markdalyy/Platformer/issues">Request Feature</a>
   </p>
 </div>
 
@@ -74,12 +74,12 @@ Things you need to use the software and how to install them.
 ### Installation
 **To download the game:**
 
-Go to the [Releases](https://github.com/MarkDaly64/Platformer/releases "Releases") section of this repostitory and download *platformer.zip* under Assets.
+Go to the [Releases](https://github.com/markdalyy/Platformer/releases "Releases") section of this repostitory and download *platformer.zip* under Assets.
 
 **To view the entire project in Godot:**
-1. Clone the repo or download the source code (zip) under [Releases](https://github.com/MarkDaly64/Platformer/releases "Releases").
+1. Clone the repo or download the source code (zip) under [Releases](https://github.com/markdalyy/Platformer/releases "Releases").
    ```sh
-   git clone https://github.com/MarkDaly64/Platformer.git
+   git clone https://github.com/markdalyy/Platformer.git
    ```
 
 2. Open Godot and "Import" either the *project.godot* file or project zip file.
@@ -97,7 +97,7 @@ Go to the [Releases](https://github.com/MarkDaly64/Platformer/releases "Releases
 * Your score increases by 100 points for each coin you collect & for each enemy you stomp.
 * Reach the portal at the end to advance to the next level.
 
-<!--Click [here](https://github.com/MarkDaly64/Platformer "Demo") to view the demo.-->
+<!--Click [here](https://github.com/markdalyy/Platformer "Demo") to view the demo.-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
